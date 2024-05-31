@@ -8,3 +8,8 @@ Having never really played Bluetooth Low Energy (BLE) before, I wanted to explor
 - **scan_BLE.py** — Scans for BLE devices and identifies the addresses of nearby toothbrushes.
 - **main.py** — A Python script that reads BLE messages from the toothbrush, displaying current brushing time and past brushing sessions.
 - **main_cli.py** — The same Python script as `main.py`, but without a graphical user interface (CLI version).
+
+## Screenshot
+<p align="center">
+  <img src="Screenshot.png" width=50% height=50%>
+</p>
